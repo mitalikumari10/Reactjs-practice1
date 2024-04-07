@@ -1,16 +1,21 @@
-# Reactjs-practice1
-->THINGS I LEARNED
-1)Hello World using HTML
-2)Same thing using js
-3)Bring react into code using CDN LINKS
-4)Code React in js file
-5)Create React element (object)
-6)Create root IN ReactDOM using create root
-7)Assign root in react
-8)React.render on browser 
-9)Create Element (api) 
-a)name of tag eg div
-b)attributes eg id
-c)your sentense 
-**if root already exist new parent will replace it
-**react can be made and modified in root onlii
+# React.js Practice
+
+## Things I Learned
+1. Hello World using HTML
+2. Same thing using JavaScript
+3. Bringing React into code using CDN links
+4. Writing React code in a separate JavaScript file
+5. Creating React elements (objects)
+6. Creating root in ReactDOM using `createRoot`
+7. Assigning root in React
+8. Rendering React components in the browser using `ReactDOM.render`
+9. Using the `createElement` API:
+   - Name of tag (e.g., `div`)
+   - Attributes (e.g., `id`)
+   - Content or children of the element
+
+### Important Notes:
+- If a root already exists, a new parent will replace it.
+- React can only be manipulated and modified within its root.
+- Consider updating the font and beautifying the markdown for GitHub README to enhance readability and presentation.
+
